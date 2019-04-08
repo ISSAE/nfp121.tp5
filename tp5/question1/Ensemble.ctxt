@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ size()
+comment1.params=
+comment1.target=java.util.Iterator\ iterator()
+comment2.params=t
+comment2.target=boolean\ add(java.lang.Object)
+numComments=3

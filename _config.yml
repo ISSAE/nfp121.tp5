@@ -1,0 +1,19 @@
+remote_theme: ISSAE/architect
+
+name: Programmation Avancée TP4
+
+author: Pascal Fares
+
+author_email: pascal.fares@isae.edu.lb
+
+title: TP 4 Programmation événementielle, Modéle Vue Contrôleur
+description: Programmation Avancée et Patron de conception en Java
+
+google_analytics: UA-29708002-2
+
+repository: ISSAE/nfp121.tp4
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+

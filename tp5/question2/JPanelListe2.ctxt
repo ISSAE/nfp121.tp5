@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JPanelListe2
+comment1.params=liste\ occurrences
+comment1.target=JPanelListe2(java.util.List,\ java.util.Map)
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=ie
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment4.params=prefixe
+comment4.target=boolean\ retirerDeLaListeTousLesElementsCommencantPar(java.lang.String)
+numComments=5

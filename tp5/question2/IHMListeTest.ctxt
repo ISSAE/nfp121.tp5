@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=IHMListeTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Supprime\ les\ engagements\r\n\r\n\ M\u00E9thode\ appel\u00E9e\ apr\u00E8s\ chaque\ appel\ de\ m\u00E9thode\ de\ test.\r\n
+comment3.params=
+comment3.target=void\ test_IHMListe_rechercher()
+comment4.params=
+comment4.target=void\ test_IHM_occurrence()
+comment5.params=
+comment5.target=void\ test_IHMListe_retirer()
+comment6.params=
+comment6.target=void\ test_IHMListe_retirer_et_occurrence()
+comment7.params=s\ robot\ enter
+comment7.target=void\ typeLine(java.lang.String,\ java.awt.Robot,\ boolean)
+comment8.params=x\ y
+comment8.target=void\ mouseMoveAndClick(int,\ int)
+comment9.params=x\ y
+comment9.target=void\ mouseMoveAndClickClick(int,\ int)
+numComments=10

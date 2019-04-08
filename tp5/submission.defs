@@ -1,0 +1,105 @@
+jnews_NFP121{
+  tp5_question1_evaluation{
+    .file.include=*.class;
+    .transport=http://jfod.cnam.fr/jnews/junit3/AllTests.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5q1&client=bluej;
+  }
+  tp5_question2_evaluation{
+    .file.include=*.class;
+    .transport=http://jfod.cnam.fr/jnews/junit3/AllTests.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5q2&client=bluej;
+  }
+  tp5_question3_evaluation{
+    .file.include=*.class;
+    .transport=http://jfod.cnam.fr/jnews/junit3/AllTests.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5q3&client=bluej;
+  }
+ 
+  javadoc_evaluation{
+    .file.include=*.java;
+    .transport=http://jfod.cnam.fr/jnews/checkstyle/javadoc.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5&client=bluej;
+  }
+  historique{
+    .file.include=README.TXT;
+    .transport=http://jfod.cnam.fr/jnews/interrogation/historique.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&client=bluej;
+  }
+  historiqueResultats{
+    .file.include=README.TXT;
+    .transport=http://jfod.cnam.fr/jnews/interrogation/historiqueResultats.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&client=bluej;
+  }
+
+  resultats_question1_junit3{
+    .file.include=README.TXT;
+    .transport=http://jfod.cnam.fr/jnews/interrogation/resultats.html?outil=junit3&uv=NFP121&tp=tp5q1&client=bluej;
+  }
+  resultats_question2_junit3{
+    .file.include=README.TXT;
+    .transport=http://jfod.cnam.fr/jnews/interrogation/resultats.html?outil=junit3&uv=NFP121&tp=tp5q2&client=bluej;
+  }
+  resultats_question3_junit3{
+    .file.include=README.TXT;
+    .transport=http://jfod.cnam.fr/jnews/interrogation/resultats.html?outil=junit3&uv=NFP121&tp=tp5q3&client=bluej;
+  }
+
+  PMD{
+    .file.include=*.java;
+    .transport=http://jfod.cnam.fr/jnews/pmd/pmd.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5&client=bluej;
+  }
+
+  findbugs{
+    .file.include=*.class;
+    .transport=http://jfod.cnam.fr/jnews/findbugs/findbugs.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5&client=bluej;
+  }
+
+
+}
+
+jnews_NFP121_de_secours{
+
+    tp5_question1_evaluation{
+    .file.include=*.class;
+    .transport=http://vivaldi.cnam.fr:8080/junit3/AllTests.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5q1&client=bluej;
+  }
+  tp5_question2_evaluation{
+    .file.include=*.class;
+    .transport=http://vivaldi.cnam.fr:8080/junit3/AllTests.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5q2&client=bluej;
+  }
+  tp5_question3_evaluation{
+    .file.include=*.class;
+    .transport=http://vivaldi.cnam.fr:8080/junit3/AllTests.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5q3&client=bluej;
+  }
+ 
+  javadoc_evaluation{
+    .file.include=*.java;
+    .transport=http://vivaldi.cnam.fr:8080/checkstyle/javadoc.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5&client=bluej;
+  }
+  historique{
+    .file.include=README.TXT;
+    .transport=http://vivaldi.cnam.fr:8080/interrogation/historique.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&client=bluej;
+  }
+  historiqueResultats{
+    .file.include=README.TXT;
+    .transport=http://vivaldi.cnam.fr:8080/interrogation/historiqueResultats.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&client=bluej;
+  }
+
+  resultats_question1_junit3{
+    .file.include=README.TXT;
+    .transport=http://vivaldi.cnam.fr:8080/interrogation/resultats.html?outil=junit3&uv=NFP121&tp=tp5q1&client=bluej;
+  }
+  resultats_question2_junit3{
+    .file.include=README.TXT;
+    .transport=http://vivaldi.cnam.fr:8080/interrogation/resultats.html?outil=junit3&uv=NFP121&tp=tp5q2&client=bluej;
+  }
+  resultats_question3_junit3{
+    .file.include=README.TXT;
+    .transport=http://vivaldi.cnam.fr:8080/interrogation/resultats.html?outil=junit3&uv=NFP121&tp=tp5q3&client=bluej;
+  }
+
+  PMD{
+    .file.include=*.java;
+    .transport=http://vivaldi.cnam.fr:8080/pmd/pmd.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5&client=bluej;
+  }
+
+  findbugs{
+    .file.include=*.class;
+    .transport=http://vivaldi.cnam.fr:8080/findbugs/findbugs.html?auteur=<field:auteur>&matricule=<field:matricule>&uv=NFP121&tp=tp5&client=bluej;
+  }
+
+}
