@@ -1,17 +1,17 @@
 remote_theme: ISSAE/architect
 
-name: Programmation Avancée TP4
+name: Programmation Avancée TP5
 
 author: Pascal Fares
 
 author_email: pascal.fares@isae.edu.lb
 
-title: TP 4 Programmation événementielle, Modéle Vue Contrôleur
+title: TP 5 Classes abstraites / interface / héritage / Pattern Fabrique
 description: Programmation Avancée et Patron de conception en Java
 
 google_analytics: UA-29708002-2
 
-repository: ISSAE/nfp121.tp4
+repository: ISSAE/nfp121.tp5
 
 plugins:
   - jekyll-sitemap
