@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ListMemento
+comment1.params=state
+comment1.target=ListMemento(java.util.List)
+comment2.params=
+comment2.target=java.util.List\ getState()
+numComments=3

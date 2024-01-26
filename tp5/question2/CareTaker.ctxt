@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CareTaker
+comment1.params=memento
+comment1.target=void\ addMemento(ListMemento)
+comment2.params=
+comment2.target=ListMemento\ getMemento()
+numComments=3

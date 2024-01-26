@@ -2,4 +2,16 @@
 comment0.target=EnsembleTest
 comment1.params=
 comment1.target=void\ testUnion()
-numComments=2
+comment2.params=
+comment2.target=void\ testAddUnique()
+comment3.params=
+comment3.target=void\ testAddDuplicate()
+comment4.params=
+comment4.target=void\ testUnion_2()
+comment5.params=
+comment5.target=void\ testInter()
+comment6.params=
+comment6.target=void\ testDiff()
+comment7.params=
+comment7.target=void\ testDiffSym()
+numComments=8

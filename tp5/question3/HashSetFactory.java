@@ -3,6 +3,11 @@ package question3;
 import java.util.Set;
 import java.util.HashSet;
 
-public class HashSetFactory/* à compléter */implements Factory/* à compléter */{
-
+/**
+ * hashSet n'est pas comparable 
+ */
+public class HashSetFactory<E> implements Factory<Set<E>> {
+    public Set<E> create() {
+        return new HashSet<E>();
+    }
 }
