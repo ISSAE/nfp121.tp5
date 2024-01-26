@@ -4,10 +4,12 @@ import java.util.Set;
 
 public class Tests extends junit.framework.TestCase {
 
-    public void test1(question3.Factory/* à compléter */f) throws Exception {
+    public void test1(Factory<Set<Integer>> f) throws Exception {
         Set<Integer> set = f.create();
         for (int i = 20; i > 0; i--)
             set.add(i);
+            
+        assertEquals(20, set.size());
     }
 
     public void testCreation() {

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HashSetFactory
+comment0.text=\r\n\ hashSet\ n'est\ pas\ comparable\ \r\n
+comment1.params=
+comment1.target=java.util.Set\ create()
+numComments=2

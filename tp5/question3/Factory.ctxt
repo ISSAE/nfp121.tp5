@@ -1,4 +1,5 @@
 #BlueJ class context
-comment0.params=
-comment0.target=java.lang.Object\ create()
-numComments=1
+comment0.target=Factory
+comment1.params=
+comment1.target=java.lang.Object\ create()
+numComments=2
